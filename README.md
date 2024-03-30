@@ -12,6 +12,10 @@ Apolline Diaz
 
 La conception de la première version 1.0 a été finalisée en 7 jours.
 
+
+https://github.com/adatechschool/extension-navigateur-tineni-apolline-julien/assets/146818735/38c82fcf-e133-4593-8238-b24434d309fe
+
+
 ## Installation
 
 Vous pouvez installer l'extension via la page dédiée aux extensions de Chrome.
